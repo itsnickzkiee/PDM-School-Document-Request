@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AboutUs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Analytics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Overboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PendingStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Receipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SendaNotice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentArchive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThankYouSubmission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="DataSet.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>
